@@ -1,2 +1,3 @@
 # CPE325-MSP430-Assembly
-Projects from CPE325 MSP430 Assembly Lab
+Screenshots of code and Lab Reports from projects in CPE325 MSP430 Assembly Lab
+SOME PROJECTS ARE UNFINISHED; USE AT OWN RISK
